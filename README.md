@@ -21,4 +21,4 @@ Some works in React
 
 * English
   * [Count clicks](https://gilcemargz.github.io/teste_react/contador/)
-  * [Jogo da velha](https://gilcemargz.github.io/teste_react/tic_tac_toe/)
+  * [Tic tac toe](https://gilcemargz.github.io/teste_react/tic_tac_toe/)
