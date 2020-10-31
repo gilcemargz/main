@@ -10,10 +10,10 @@ Some works in HTML
   * [Multa](https://gilcemargz.github.io/curso_javascript/Aula11/ex009.html)
   * [Hora agora](https://gilcemargz.github.io/curso_javascript/Aula12/ex010.html)
   * [Calculo idade](https://gilcemargz.github.io/curso_javascript/Aula12/ex011.html)
-  * [Arte](https://gilcemargz.github.io/EDX_course_js_basic/html_canvas.html)
-  * [Movimento da arte](https://gilcemargz.github.io/EDX_course_js_basic/movimento.html)
-  * [Conta cliques](https://gilcemargz.github.io/EDX_course_js_basic/teste_callback.html)
-  * [Local do mouse](https://gilcemargz.github.io/EDX_course_js_basic/testeMouse.html)
+  * [Arte](https://gilcemargz.github.io/curso_javascript/EDX_course_js_basic/html_canvas.html)
+  * [Movimento da arte](https://gilcemargz.github.io/curso_javascript/EDX_course_js_basic/movimento.html)
+  * [Conta cliques](https://gilcemargz.github.io/curso_javascript/EDX_course_js_basic/teste_callback.html)
+  * [Local do mouse](https://gilcemargz.github.io/curso_javascript/EDX_course_js_basic/testeMouse.html)
   * [Muda botões](https://gilcemargz.github.io/HackerHank/index.html)
 
 
