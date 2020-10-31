@@ -14,7 +14,7 @@ Some works in HTML
   * [Movimento da arte](https://gilcemargz.github.io/curso_javascript/EDX_course_js_basic/movimento.html)
   * [Conta cliques](https://gilcemargz.github.io/curso_javascript/EDX_course_js_basic/teste_callback.html)
   * [Local do mouse](https://gilcemargz.github.io/curso_javascript/EDX_course_js_basic/testeMouse.html)
-  * [Muda botões](https://gilcemargz.github.io/HackerHank/index.html)
+  * [Muda botões](https://gilcemargz.github.io/curso_javascript/HackerHank/index.html)
 
 
 
