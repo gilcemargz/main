@@ -16,11 +16,9 @@ Some works in HTML
   * [Local do mouse](https://gilcemargz.github.io/curso_javascript/EDX_course_js_basic/testeMouse.html)
   * [Muda botões](https://gilcemargz.github.io/curso_javascript/HackerHank/index.html)
 
-
-
-
 # React
 Some works in React
 
-* Portuguese
+* English
+  * [Count clicks](https://gilcemargz.github.io/teste_react)
   * [Jogo da velha]
