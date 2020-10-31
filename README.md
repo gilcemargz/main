@@ -1,3 +1,9 @@
+# HTML
+Some works in HTML
+
+* Portuguese
+  * [Soma valores](https://gilcemargz.github.io/curso_javascript/Aula10/ex007.html)
+
 # JavaScript
 Some works in JS
 
