@@ -6,6 +6,7 @@
 Some works in HTML
 
 * Portuguese
+  * [Página de captura](https://github.com/gilcemargz/cursos/blob/main/curso_programadorbr/aula06/index.html)
   * [Jogo da velha](https://gilcemargz.github.io/curso_javascript//EDX_course_js_basic/module_01.html)
   * [Contador](https://gilcemargz.github.io/curso_javascript/aula14/ex012.html)
   * [Soma valores](https://gilcemargz.github.io/curso_javascript/Aula10/ex007.html)
@@ -24,4 +25,4 @@ Some works in React
 * English
   * [Count clicks](https://gilcemargz.github.io/teste_react/contador/)
   * [Tic tac toe](https://gilcemargz.github.io/teste_react/tic_tac_toe/)
-  * [Calculator](https://gilcemargz.github.io/teste_react/calculator/)  
+  * [Calculator](https://gilcemargz.github.io/teste_react/calculator/)   
