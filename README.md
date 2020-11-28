@@ -7,6 +7,7 @@ Some works in HTML
 
 * Portuguese
   * [Página de captura](https://gilcemargz.github.io/cursos/curso_programadorbr/aula06/index.html)
+  * [Churrascômetro](https://gilcemargz.github.io/cursos/curso_programadorbr/aula10/index.html)
   * [Jogo da velha](https://gilcemargz.github.io/curso_javascript//EDX_course_js_basic/module_01.html)
   * [Contador](https://gilcemargz.github.io/curso_javascript/aula14/ex012.html)
   * [Soma valores](https://gilcemargz.github.io/curso_javascript/Aula10/ex007.html)
